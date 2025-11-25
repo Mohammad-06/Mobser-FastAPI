@@ -1,0 +1,17 @@
+venv/
+
+
+*.db
+testdb/
+
+
+app.log
+*.log
+
+
+.env
+.env.local
+
+
+.cache/
+__pycache__/
